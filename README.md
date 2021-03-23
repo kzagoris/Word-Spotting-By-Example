@@ -21,6 +21,8 @@ multiple word detection | final result (the green color denotes the most similar
 
 Finally, implementing the proposed keyword spotting method as a recommender system to a transcription process is available at <http://vc.ee.duth.gr/ws> [Zagoris2015].
 
+A more efficient matching procedure that uses the DoLF local points is available at http://orpheus.ee.duth.gr/word-spotting-demonstrator/
+
 ## Usage
 
 ```
