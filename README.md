@@ -25,7 +25,7 @@ A more efficient matching procedure that uses the DoLF local points is available
 
 ## Usage
 
-```
+```shell
 WordSpottingByExample 1.0.0.0
 
 
@@ -40,7 +40,7 @@ WordSpottingByExample 1.0.0.0
 
 ### Indexing Verb Usage
 
-"`shell
+```shell
 WordSpottingByExample 1.0.0.0
 USAGE:
 Indexing example:
@@ -60,8 +60,7 @@ Indexing example:
 
 ### Retrieval Verb Usage
 
-```
-
+```shell
 WordSpottingByExample 1.0.0.0
 USAGE:
 Locate a word:
